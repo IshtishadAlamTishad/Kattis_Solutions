@@ -1,1 +1,4 @@
-In this file you will see few tricky problem's solve of Kattis.
+My solutions of some problem / Kattis problems.
+Try yourself
+
+C++ Implementation
